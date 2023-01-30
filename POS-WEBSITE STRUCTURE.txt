@@ -1,0 +1,27 @@
+POS-WEBSITE STRUCTURE...
+
+***MemberShip
+	1.Users/Employee
+	2.Users Group
+	3.Admin
+	 *1.User Information
+	 	ID,Name,Email,Phone,Address, Birthday,Photo
+	 *2. Users Group
+	    ID,Group Title
+		
+	 *3.Admin Information
+ 		ID,Name,Email,Phone,Designation,New Password,Confirm Password, etc.
+
+***Product
+   	ID,Product Cat(foreign kye[category]), Title,Description,Price, Cost Price,Stokes.
+***Category
+   	ID,Title
+
+***Sales Items
+***Sales Invoices
+***Purchase Items
+***Purchase Invoices
+***Payment 
+***Payment Receive 
+	
+

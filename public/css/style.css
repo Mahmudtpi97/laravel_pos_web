@@ -1,0 +1,16 @@
+table tr td{
+    vertical-align: middle !important;
+}
+table tr td img{
+    width:100px;
+    height:100px;
+}
+.sidebar .nav-item .nav-link{
+    padding: .7rem;
+}
+.sidebar .nav-item .collapse-item i, .btn i{
+    margin-right: 5px;
+}
+.card-center{
+ margin:3rem auto;
+}
